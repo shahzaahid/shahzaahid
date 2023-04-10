@@ -1,14 +1,21 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Shah Zahid</h1>
 <h3 align="center">A passionate Front End Specialist</h3>
-<img
-  src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiNh7Sh8J_-AhVcF7cAHd5ACukQMygDegUIARCWAg..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwiNh7Sh8J_-AhVcF7cAHd5ACukQMygDegUIARCWAg"
-  alt="Coding"
-  width="400"
-/>
 
-- 💬 Ask me about **frontend Development** - 📫 How to reach me
-**https://linktr.ee/shah_zahid**
+<p align="left">
+  <img src="<img
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    alt="Coding"
+    width="400"
+  />
+</p>
+
+<p>🌱 I’m currently learning ** Machine Learning and DAA**</p>
+<p>💬 Ask me about** frontend Development**</p>
+<p>📫 How to reach me **https://linktr.ee/shah_zahid** - ⚡</p>
+<p></p>
+<p></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -124,4 +131,28 @@
       height="40"
     />
   </a>
+</p>
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaahid&show_icons=true&locale=en&layout=compact"
+    alt="shahzaahid"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=shahzaahid&show_icons=true&locale=en"
+    alt="shahzaahid"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaahid&"
+    alt="shahzaahid"
+  />
 </p>
