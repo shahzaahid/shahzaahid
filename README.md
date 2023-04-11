@@ -14,18 +14,10 @@
     </p>
   </div>
 </div>
-<!-- <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=shahzaahid"
-      alt="shahzaahid"
-  /></a>
-</p> -->
+
 <p>🌱 I’m currently learning <strong>** Machine Learning and DAA**</strong></p>
-<p>💬 Ask me about** frontend Development**</p>
-<p>📫 How to reach me **https://linktr.ee/shah_zahid** - ⚡</p>
-<p></p>
-<p></p>
+<p>💬 Ask me about<strong>** frontend Development**</strong></p>
+<p>📫 How to reach me <strong>**https://linktr.ee/shah_zahid** - ⚡</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
