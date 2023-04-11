@@ -21,7 +21,7 @@
       alt="shahzaahid"
   /></a>
 </p> -->
-<p>🌱 I’m currently learning ** Machine Learning and DAA**</p>
+<p>🌱 I’m currently learning <strong>** Machine Learning and DAA**</strong></p>
 <p>💬 Ask me about** frontend Development**</p>
 <p>📫 How to reach me **https://linktr.ee/shah_zahid** - ⚡</p>
 <p></p>
